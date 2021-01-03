@@ -5,5 +5,5 @@
  
  M:Non è vero, queste cose non sono carine e coccolose, se questa diventa funzionale rimane tutto qui easy.
  
- L:oki ma l'altro github lo buttiamo allora? già ci stanno dentro :(
+ L:oki ma l'altro github lo buttiamo allora? già ci stanno dentro :( Vabbè intanto invitiamoli anche qui
  
